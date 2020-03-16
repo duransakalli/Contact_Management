@@ -1,2 +1,2 @@
 # Contact_Management
-Creating a contacts management system with using Java GUI and Apache Derby Database framework.
+Creating the contacts management system with using Java GUI and Apache Derby Database framework.
